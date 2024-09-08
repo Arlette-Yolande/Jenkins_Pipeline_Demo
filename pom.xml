@@ -7,6 +7,7 @@
 	<artifactId>REST-assured_Cucumber</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
+	<!-- Demo-test-->
 
 	<name>REST-assured_Cucumber</name>
 	<url>http://maven.apache.org</url>
